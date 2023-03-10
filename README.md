@@ -14,7 +14,7 @@ The project is to explain steps of demonstrate how to implement the **[SMIS Desi
     <img src="./assets/app-ss.png" alt="app preview" width="400"/>
 </p>
 
-**Disclaimer:** The application is built on top of Sand Box provided by Redux in this link [Redux Quick Start Guide](https://redux-toolkit.js.org/tutorials/quick-start) and used only for demonstration of the design pattern.
+>**Disclaimer:** The application is built on top of the Sand Box provided by Redux in this link [Redux Quick Start Guide](https://redux-toolkit.js.org/tutorials/quick-start) and used only for demonstration of the design pattern.
 
 <br>
 
