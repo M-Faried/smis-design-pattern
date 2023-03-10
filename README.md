@@ -8,6 +8,16 @@ The project is to explain steps of demonstrate how to implement the **[SMIS Desi
 
 <br>
 
+## 👓 App Preview
+
+<p align="center">
+    <img src="./assets/app-ss.png" alt="app preview" width="400"/>
+</p>
+
+**Disclaimer:** The application is built on top of Sand Box provided by Redux in this link [Redux Quick Start Guide](https://redux-toolkit.js.org/tutorials/quick-start) and used only for demonstration of the design pattern.
+
+<br>
+
 ## 🚀 Running The Application
 * Open a terminal window and cd at any of the folders and run "npm install" to install the dependencies of the phase.
 * Run the application using "npm run start" to get the React app running.
