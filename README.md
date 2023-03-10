@@ -21,9 +21,12 @@ The project is to explain steps of demonstrate how to implement the **[SMIS Desi
 ## 🚀 Running The Application
 * Open a terminal window and cd at any of the folders and run "npm install" to install the dependencies of the phase.
 * Run the application using "npm run start" to get the React app running.
-* To run the application with only Redux or the one with Redux and react-query, open a new terminal and cd into one of the folders accordingly.
-* Run the comand "npm install" to install all the dependencies in either folder.
-* Run the command "npm run start".
+
+<br>
+
+## 🔬 Switching Between Redux & React Query
+
+If you are in the final project "phase-3" and want to switch between the two state managers, open the file in the path "phase-3\src\appState\config.js" and change the value of CounterStateManager to either of the 2 state managers.
 
 <br>
 
@@ -32,12 +35,6 @@ The project is to explain steps of demonstrate how to implement the **[SMIS Desi
 * SMIS Design Pattern
 * ContextAPI
 * Redux & Redux Tool Kit
-
-<br>
-
-## 🔬 Switching Between Redux & React Query
-
-If you are in the final project "phase-3" and want to switch between the two state managers, open the file in the path "phase-3\src\appState\config.js" and change the value of CounterStateManager to either of the 2 state managers.
 
 <br>
 
