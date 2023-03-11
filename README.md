@@ -1,5 +1,9 @@
 # 📐 SMIS Design Pattern
 
+<p align='center'>
+    <img src="assets\smis-dp-in-action.png" alt="panner" width="500"/>
+</p>
+
 The project is to explain steps of demonstrate how to implement the **[SMIS Design Pattern](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)** and show how beneficial it is when the deverlopers need to shift between global state providers. The design pattern purpose is to abstract the usage of global state manager in order to decreate the amount of changes required when this shift happens.
 
 <br>
