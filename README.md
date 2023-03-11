@@ -9,6 +9,8 @@ The project is to explain steps of demonstrate how to implement the **[SMIS Desi
 <br>
 
 > 👉 You can find the full explanation of SMIS Design Pattern in this Medium article: **[SMIS Design Pattern](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)**
+>
+> 👉 You can find another example on SMIS Design Pattern in this Medium article **[SMIS DP In Action](https://medium.com/@m.a.faried/smis-design-pattern-in-action-9a3c6daa85ae)**
 
 <br>
 
